@@ -36,7 +36,7 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website  
-Link: https://tanavjalan2003.github.io/Portfolio-Tanav.github.io/  
+🔗 [Live Project](https://tanavjalan2003.github.io/Portfolio-Tanav.github.io/)  
 
 A fully responsive **personal portfolio website** showcasing:
 - Education, Certifications, Experience  
@@ -46,9 +46,23 @@ A fully responsive **personal portfolio website** showcasing:
 > Built using HTML, CSS, and JavaScript with deployment via GitHub Pages.
 
 ---
+### 🚀 Psyche 1825 – Orbital of a Metal World  
+🔗 [Live Project](https://tanavjalan2003.github.io/Psyche-Mission/)
+
+An interactive 3D simulation of asteroid **16 Psyche**, designed to visualize its orbital motion and surface environment through an immersive web experience.
+
+- 🌌 Dual simulation modes: Orbital View & Surface View  
+- ⏱️ Real-time time progression with adjustable speed controls  
+- 🛰️ Scientific visualization of orbital paths and rotation  
+- 🎮 Interactive camera controls and immersive UI  
+- 🌍 Educational tool bridging NASA mission data with visualization  
+
+> Built to make planetary science and space exploration more engaging and accessible through interactive simulation.
+
+---
 
 ### 📈 Financial Planning - Mutual Funds  
-Link: https://tanavjalan2003.github.io/Financial-Planning-MF/  
+🔗 [Live Project](https://tanavjalan2003.github.io/Financial-Planning-MF/)  
 
 A personal investment analytics platform focused on the **Indian mutual funds market**, enabling users to track:
 - Profit & Loss 📊  
