@@ -35,7 +35,20 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 
 ## 🚀 Featured Projects
 
+
+### 🌐 Portfolio Website
+Link : https://tanavjalan2003.github.io/Portfolio-Tanav.github.io/
+A fully responsive **personal portfolio website** showcasing:
+- Education, Certifications, Experience  
+- Projects & Recommendations  
+- Interactive UI elements and slideshows  
+
+> Built using HTML, CSS, and JavaScript with deployment via GitHub Pages.
+
+---
+
 ### 📈 Financial Planning - Mutual Funds
+Link : https://tanavjalan2003.github.io/Financial-Planning-MF/
 A personal investment analytics platform focused on the **Indian mutual funds market**, enabling users to track:
 - Profit & Loss 📊  
 - Investment Value 💰  
@@ -52,16 +65,6 @@ A **SwiftUI-based iOS application** featuring:
 - Customizable UI with dynamic backgrounds 🎨  
 
 > Focused on accessibility, interactivity, and clean UI design.
-
----
-
-### 🌐 Portfolio Website
-A fully responsive **personal portfolio website** showcasing:
-- Education, Certifications, Experience  
-- Projects & Recommendations  
-- Interactive UI elements and slideshows  
-
-> Built using HTML, CSS, and JavaScript with deployment via GitHub Pages.
 
 ---
 
