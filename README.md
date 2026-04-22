@@ -1,16 +1,142 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanav Jalan
 
-<!--
-**tanavjalan2003/tanavjalan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate passionate about transforming **complex data into actionable insights** and building **scalable, user-centric applications**. My work sits at the intersection of **data analytics, web development, and intelligent systems**, with a strong focus on delivering real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+
+- 📊 Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
+- 🌐 Develop **full-stack web applications** with scalable architectures  
+- 🧠 Design **data-driven solutions** that simplify decision-making  
+- 🎮 Create **interactive systems and simulations** with real-time logic  
+- 📱 Explore **mobile development** using Swift & SwiftUI  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+`Python` • `JavaScript` • `SQL` • `Swift` • `DAX`
+
+**Frameworks & Technologies**  
+`Power BI` • `SwiftUI` • `Pygame` • `MySQL` • `REST APIs`
+
+**Core Skills**  
+- Data Visualization & Business Intelligence  
+- Data Modeling (Star Schema, ETL Pipelines)  
+- Full-Stack Development  
+- Prompt Engineering & AI Integration  
+- System Design & Optimization  
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Financial Planning - Mutual Funds
+A personal investment analytics platform focused on the **Indian mutual funds market**, enabling users to track:
+- Profit & Loss 📊  
+- Investment Value 💰  
+- Portfolio Insights  
+
+> Built to simplify financial decision-making through intuitive data visualization.
+
+---
+
+### 📱 GreetingApp (iOS - Swift)
+A **SwiftUI-based iOS application** featuring:
+- Personalized dynamic greetings  
+- Text-to-speech using AVFoundation 🔊  
+- Customizable UI with dynamic backgrounds 🎨  
+
+> Focused on accessibility, interactivity, and clean UI design.
+
+---
+
+### 🌐 Portfolio Website
+A fully responsive **personal portfolio website** showcasing:
+- Education, Certifications, Experience  
+- Projects & Recommendations  
+- Interactive UI elements and slideshows  
+
+> Built using HTML, CSS, and JavaScript with deployment via GitHub Pages.
+
+---
+
+### 🏫 School Management System
+A **Python + MySQL-based system** to automate:
+- Student & Teacher Records  
+- Attendance Tracking  
+- Fee & Salary Management  
+
+> Designed with modular architecture and persistent database integration.
+
+---
+
+### 🏎️ Racing Game Simulator
+An **arcade-style game built with Pygame** featuring:
+- AI-driven traffic 🚗  
+- Real-time camera tracking 🎥  
+- Dynamic scoring & time mechanics ⏱️  
+- Custom maps and gameplay  
+
+> Focused on game logic, physics, and interactive systems.
+
+---
+
+## 📊 Experience Snapshot
+
+- **Power BI Developer @ CohnReznick**
+  - Built scalable data models using DAX & SQL  
+  - Delivered real-time dashboards across business units  
+
+- **Full-Stack Developer Intern**
+  - Developed REST APIs & deployed solutions on Azure  
+  - Improved system modularity using dependency injection  
+
+- **Data Analyst**
+  - Optimized dashboards & reduced processing time by 30%  
+
+- **NASA Capstone (AR/VR Simulation)**
+  - Built a 3D simulation of asteroid Psyche 🌌  
+  - Improved engagement by 25% using interactive visualization  
+
+---
+
+## 🎯 Career Focus
+
+I’m actively focused on roles in:
+- **Data Engineering / Data Analytics**
+- **Business Intelligence (Power BI / Analytics)**
+- **Full-Stack Development**
+- **AI-driven Applications & Intelligent Systems**
+
+I enjoy solving problems where **data meets product and impact**.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 SUN Award - Spring 2024  
+- 🎓 Multiple Dean’s List Honors (2021–2025)  
+- 📜 Certifications in Machine Learning, AWS & Prompt Engineering  
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** tanavjalan2026@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/tanav-jalan  
+🌐 **Portfolio:** https://tanavjalan2003.github.io/TanavJalan.github.io/
+
+---
+
+## ⚡ Fun Fact
+
+I love building systems that **turn complexity into clarity** — whether it's a dashboard, a game, or a full-scale application.
+
+---
+
+⭐ *If you like my work, feel free to explore my repositories and connect!*
