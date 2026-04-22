@@ -36,7 +36,7 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website  
-🔗 [Live Project](https://tanavjalan2003.github.io/Portfolio-Tanav.github.io/)  
+🔗 [Live Project](https://tanavjalan2003.github.io/Portfolio-Tanav/)  
 
 A fully responsive **personal portfolio website** showcasing:
 - Education, Certifications, Experience  
