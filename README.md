@@ -74,8 +74,9 @@ A personal investment analytics platform focused on the **Indian mutual funds ma
 ---
 
 ### 🎮 Video Game Sales Dashboard
-An **interactive D3.js data visualization dashboard** that explores global video game sales across platforms, genres, and years.
+🔗 [Live Project](https://tanavjalan2003.github.io/Video-Game-Sales-Dashboard/)  
 
+An **interactive D3.js data visualization dashboard** that explores global video game sales across platforms, genres, and years.
 - Dynamic filtering by platform, genre, and year  
 - Interactive bar, scatter, and line charts 📊  
 - Tooltips, sorting, and tab-based navigation for exploration  
