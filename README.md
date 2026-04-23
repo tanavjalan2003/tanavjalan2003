@@ -73,13 +73,15 @@ A personal investment analytics platform focused on the **Indian mutual funds ma
 
 ---
 
-### 📱 GreetingApp (iOS - Swift)
-A **SwiftUI-based iOS application** featuring:
-- Personalized dynamic greetings  
-- Text-to-speech using AVFoundation 🔊  
-- Customizable UI with dynamic backgrounds 🎨  
+### 🎮 Video Game Sales Dashboard
+An **interactive D3.js data visualization dashboard** that explores global video game sales across platforms, genres, and years.
 
-> Focused on accessibility, interactivity, and clean UI design.
+- Dynamic filtering by platform, genre, and year  
+- Interactive bar, scatter, and line charts 📊  
+- Tooltips, sorting, and tab-based navigation for exploration  
+- Insights into regional and temporal sales trends 🌍  
+
+> Designed to make video game market data exploration intuitive, interactive, and insight-driven.
 
 ---
 
