@@ -12,7 +12,7 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=default&card_width=450" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=default&card_width=450" height="190" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003&hide_border=true" height="180" />
 </p>
 
