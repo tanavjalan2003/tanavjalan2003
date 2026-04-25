@@ -2,15 +2,14 @@
 
 🚀 **Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 I’m a Computer Science graduate passionate about transforming **complex data into actionable insights** and building **scalable, user-centric applications**. My work sits at the intersection of **data analytics, web development, and intelligent systems**, with a strong focus on delivering real-world impact.
 
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanavjalan2003&show_icons=true&theme=default" alt="stats" />
