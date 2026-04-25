@@ -6,6 +6,12 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 
 ---
 
+![GitHub repo size](https://img.shields.io/github/repo-size/tanavjalan2003/school-management-system)
+![GitHub stars](https://img.shields.io/github/stars/tanavjalan2003/school-management-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tanavjalan2003/school-management-system?style=social)
+
+---
+
 ## 💡 What I Do
 
 - 📊 Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
