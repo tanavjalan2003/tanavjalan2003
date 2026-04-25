@@ -16,10 +16,6 @@ I’m a Computer Science graduate passionate about transforming **complex data i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact" alt="top languages" />
-</p>
-
 ---
 
 ## 💡 What I Do
