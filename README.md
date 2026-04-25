@@ -2,13 +2,27 @@
 
 🚀 **Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 I’m a Computer Science graduate passionate about transforming **complex data into actionable insights** and building **scalable, user-centric applications**. My work sits at the intersection of **data analytics, web development, and intelligent systems**, with a strong focus on delivering real-world impact.
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tanavjalan2003/school-management-system)
-![GitHub stars](https://img.shields.io/github/stars/tanavjalan2003/school-management-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tanavjalan2003/school-management-system?style=social)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanavjalan2003&show_icons=true&theme=default" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003" alt="streak stats" />
+</p>
 
 ---
 
