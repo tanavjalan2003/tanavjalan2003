@@ -18,7 +18,18 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 
 ---
 
-## 💡 What I Do
+## 🎯 Career Focus
+
+I’m actively focused on roles in:
+- **Data Engineering / Data Analytics**
+- **Business Intelligence (Power BI / Analytics)**
+- **Full-Stack Development**
+- **AI-driven Applications & Intelligent Systems**
+
+I enjoy solving problems where **data meets product and impact**.
+
+---
+## 💡 What I am doing currently
 
 - 📊 Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
 - 🌐 Develop **full-stack web applications** with scalable architectures  
@@ -129,15 +140,11 @@ An **arcade-style game built with Pygame** featuring:
 - Processed **2M+ rows per refresh** using APIs, SQL, and flat files  
 - Built **15+ dashboards & reports** supporting **200+ users**, improving efficiency by **30%**
 
----
-
 #### 🌐 Full-Stack Developer Intern (Jan 2025 – May 2025)  
 💻 .NET • 🔌 REST APIs • ☁️ Azure • ⚙️ Backend Systems  
 - Developed responsive interfaces, reducing latency by **25%**  
 - Integrated APIs handling **1.5M+ records/day**, reducing errors by **20%**  
 - Deployed scalable cloud solutions supporting **10K+ concurrent users**
-
----
 
 #### 📊 Data Analyst Intern (Sep 2024 – Dec 2024)  
 📈 Power BI • 🧮 SQL • 🔄 ETL • 🧠 Data Insights  
@@ -175,18 +182,6 @@ An **arcade-style game built with Pygame** featuring:
 📚 Teaching • 👥 Mentorship • 🧠 Problem Solving • 🎯 Impact  
 - Mentored **2000+ students** across STEM subjects  
 - Delivered 1:1 and group sessions improving outcomes  
-
----
-
-## 🎯 Career Focus
-
-I’m actively focused on roles in:
-- **Data Engineering / Data Analytics**
-- **Business Intelligence (Power BI / Analytics)**
-- **Full-Stack Development**
-- **AI-driven Applications & Intelligent Systems**
-
-I enjoy solving problems where **data meets product and impact**.
 
 ---
 
