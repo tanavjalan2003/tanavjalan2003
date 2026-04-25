@@ -121,20 +121,62 @@ An **arcade-style game built with Pygame** featuring:
 
 ## 📊 Experience Snapshot
 
-- **Power BI Developer @ CohnReznick**
-  - Built scalable data models using DAX & SQL  
-  - Delivered real-time dashboards across business units  
+## 📊 Experience Snapshot
 
-- **Full-Stack Developer Intern**
-  - Developed REST APIs & deployed solutions on Azure  
-  - Improved system modularity using dependency injection  
+### 💼 CohnReznick LLP
 
-- **Data Analyst**
-  - Optimized dashboards & reduced processing time by 30%  
+#### 🧠 Power BI Developer (Jun 2025 – Present)  
+📊 Data Modeling • ⚡ DAX • 🔗 Power Query • ☁️ Data Integration  
+- Designed scalable data models (Star Schema) enabling real-time analytics across **12 business units**  
+- Processed **2M+ rows per refresh** using APIs, SQL, and flat files  
+- Built **15+ dashboards & reports** supporting **200+ users**, improving efficiency by **30%**
 
-- **NASA Capstone (AR/VR Simulation)**
-  - Built a 3D simulation of asteroid Psyche 🌌  
-  - Improved engagement by 25% using interactive visualization  
+---
+
+#### 🌐 Full-Stack Developer Intern (Jan 2025 – May 2025)  
+💻 .NET • 🔌 REST APIs • ☁️ Azure • ⚙️ Backend Systems  
+- Developed responsive interfaces, reducing latency by **25%**  
+- Integrated APIs handling **1.5M+ records/day**, reducing errors by **20%**  
+- Deployed scalable cloud solutions supporting **10K+ concurrent users**
+
+---
+
+#### 📊 Data Analyst Intern (Sep 2024 – Dec 2024)  
+📈 Power BI • 🧮 SQL • 🔄 ETL • 🧠 Data Insights  
+- Built dashboards reducing reporting time by **30%**  
+- Performed ETL workflows ensuring accurate data processing  
+- Integrated Microsoft Fabric for streamlined pipelines  
+
+---
+
+### 💻 Web Developer Intern @ Nexus Info  
+🌐 Web Dev • 🚀 CI/CD • ⚡ Performance • 🤖 AI Tools  
+- Improved deployment speed by **40%** using Jenkins pipelines  
+- Reduced load time from **4s → 1.5s**  
+- Led AI-integrated development projects  
+
+---
+
+### 🤖 Data Automation Intern @ KPMG  
+📦 Big Data • 🐍 Python • 📊 Pandas • ⚙️ Automation  
+- Processed **1TB+ data** with **99% consistency**  
+- Reduced manual effort by **80%**  
+- Automated **95% of repetitive tasks**  
+
+---
+
+### ⛓️ Blockchain Developer Intern @ Tech Mahindra  
+🔐 Solidity • ⛓️ Blockchain • 🧩 Smart Contracts • 🛡️ Security  
+- Developed **20+ smart contracts** on Ethereum  
+- Improved platform security by **40%**  
+- Integrated DApps with frontend systems  
+
+---
+
+### 🎓 Subject Area Tutor @ Arizona State University  
+📚 Teaching • 👥 Mentorship • 🧠 Problem Solving • 🎯 Impact  
+- Mentored **2000+ students** across STEM subjects  
+- Delivered 1:1 and group sessions improving outcomes  
 
 ---
 
