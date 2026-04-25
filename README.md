@@ -11,7 +11,7 @@ I’m a Computer Science graduate passionate about transforming **complex data i
   <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=default&card_width=450" height="250" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003&hide_border=true" height="170" />
 </p>
