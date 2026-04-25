@@ -7,20 +7,17 @@ I’m a Computer Science graduate passionate about transforming **complex data i
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanavjalan2003&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003" alt="streak stats" />
 </p>
 
 ---
