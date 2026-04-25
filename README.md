@@ -121,8 +121,6 @@ An **arcade-style game built with Pygame** featuring:
 
 ## 📊 Experience Snapshot
 
-## 📊 Experience Snapshot
-
 ### 💼 CohnReznick LLP
 
 #### 🧠 Power BI Developer (Jun 2025 – Present)  
