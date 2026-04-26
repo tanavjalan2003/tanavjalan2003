@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanav Jalan
 
-🚀 **Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
+**Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
 
 I’m a Computer Science graduate passionate about transforming **complex data into actionable insights** and building **scalable, user-centric applications**. My work sits at the intersection of **data analytics, web development, and intelligent systems**, with a strong focus on delivering real-world impact.
 
@@ -31,11 +31,11 @@ I enjoy solving problems where **data meets product and impact**.
 ---
 ## 💡 What I am doing currently
 
-- 📊 Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
-- 🌐 Develop **full-stack web applications** with scalable architectures  
-- 🧠 Design **data-driven solutions** that simplify decision-making  
-- 🎮 Create **interactive systems and simulations** with real-time logic  
-- 📱 Explore **mobile development** using Swift & SwiftUI  
+- Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
+- Develop **full-stack web applications** with scalable architectures  
+- Design **data-driven solutions** that simplify decision-making  
+- Create **interactive systems and simulations** with real-time logic  
+- Explore **mobile development** using Swift & SwiftUI  
 
 ---
 
@@ -74,11 +74,11 @@ A fully responsive **personal portfolio website** showcasing:
 
 An interactive 3D simulation of asteroid **16 Psyche**, designed to visualize its orbital motion and surface environment through an immersive web experience.
 
-- 🌌 Dual simulation modes: Orbital View & Surface View  
-- ⏱️ Real-time time progression with adjustable speed controls  
-- 🛰️ Scientific visualization of orbital paths and rotation  
-- 🎮 Interactive camera controls and immersive UI  
-- 🌍 Educational tool bridging NASA mission data with visualization  
+- Dual simulation modes: Orbital View & Surface View  
+- Real-time time progression with adjustable speed controls  
+- Scientific visualization of orbital paths and rotation  
+- Interactive camera controls and immersive UI  
+- Educational tool bridging NASA mission data with visualization  
 
 > Built to make planetary science and space exploration more engaging and accessible through interactive simulation.
 
@@ -88,8 +88,8 @@ An interactive 3D simulation of asteroid **16 Psyche**, designed to visualize it
 🔗 [Live Project](https://tanavjalan2003.github.io/Financial-Planning-MF/)  
 
 A personal investment analytics platform focused on the **Indian mutual funds market**, enabling users to track:
-- Profit & Loss 📊  
-- Investment Value 💰  
+- Profit & Loss 
+- Investment Value  
 - Portfolio Insights  
 
 > Built to simplify financial decision-making through intuitive data visualization.
@@ -101,9 +101,9 @@ A personal investment analytics platform focused on the **Indian mutual funds ma
 
 An **interactive D3.js data visualization dashboard** that explores global video game sales across platforms, genres, and years.
 - Dynamic filtering by platform, genre, and year  
-- Interactive bar, scatter, and line charts 📊  
+- Interactive bar, scatter, and line charts   
 - Tooltips, sorting, and tab-based navigation for exploration  
-- Insights into regional and temporal sales trends 🌍  
+- Insights into regional and temporal sales trends   
 
 > Designed to make video game market data exploration intuitive, interactive, and insight-driven.
 
@@ -121,9 +121,9 @@ A **Python + MySQL-based system** to automate:
 
 ### 🏎️ Racing Game Simulator
 An **arcade-style game built with Pygame** featuring:
-- AI-driven traffic 🚗  
-- Real-time camera tracking 🎥  
-- Dynamic scoring & time mechanics ⏱️  
+- AI-driven traffic  
+- Real-time camera tracking  
+- Dynamic scoring & time mechanics 
 - Custom maps and gameplay  
 
 > Focused on game logic, physics, and interactive systems.
@@ -135,19 +135,19 @@ An **arcade-style game built with Pygame** featuring:
 ### 💼 CohnReznick LLP
 
 #### 🧠 Power BI Developer (Jun 2025 – Present)  
-📊 Data Modeling • ⚡ DAX • 🔗 Power Query • ☁️ Data Integration  
+Data Modeling • DAX • Power Query • Data Integration  
 - Designed scalable data models (Star Schema) enabling real-time analytics across **12 business units**  
 - Processed **2M+ rows per refresh** using APIs, SQL, and flat files  
 - Built **15+ dashboards & reports** supporting **200+ users**, improving efficiency by **30%**
 
 #### 🌐 Full-Stack Developer Intern (Jan 2025 – May 2025)  
-💻 .NET • 🔌 REST APIs • ☁️ Azure • ⚙️ Backend Systems  
+.NET • REST APIs • Azure • Backend Systems  
 - Developed responsive interfaces, reducing latency by **25%**  
 - Integrated APIs handling **1.5M+ records/day**, reducing errors by **20%**  
 - Deployed scalable cloud solutions supporting **10K+ concurrent users**
 
 #### 📊 Data Analyst Intern (Sep 2024 – Dec 2024)  
-📈 Power BI • 🧮 SQL • 🔄 ETL • 🧠 Data Insights  
+Power BI • SQL • ETL • Data Insights  
 - Built dashboards reducing reporting time by **30%**  
 - Performed ETL workflows ensuring accurate data processing  
 - Integrated Microsoft Fabric for streamlined pipelines  
@@ -155,7 +155,7 @@ An **arcade-style game built with Pygame** featuring:
 ---
 
 ### 💻 Web Developer Intern @ Nexus Info  
-🌐 Web Dev • 🚀 CI/CD • ⚡ Performance • 🤖 AI Tools  
+Web Dev • CI/CD • Performance • AI Tools  
 - Improved deployment speed by **40%** using Jenkins pipelines  
 - Reduced load time from **4s → 1.5s**  
 - Led AI-integrated development projects  
@@ -163,7 +163,7 @@ An **arcade-style game built with Pygame** featuring:
 ---
 
 ### 🤖 Data Automation Intern @ KPMG  
-📦 Big Data • 🐍 Python • 📊 Pandas • ⚙️ Automation  
+Big Data • Python • Pandas • Automation  
 - Processed **1TB+ data** with **99% consistency**  
 - Reduced manual effort by **80%**  
 - Automated **95% of repetitive tasks**  
@@ -171,7 +171,7 @@ An **arcade-style game built with Pygame** featuring:
 ---
 
 ### ⛓️ Blockchain Developer Intern @ Tech Mahindra  
-🔐 Solidity • ⛓️ Blockchain • 🧩 Smart Contracts • 🛡️ Security  
+Solidity • Blockchain • Smart Contracts • Security  
 - Developed **20+ smart contracts** on Ethereum  
 - Improved platform security by **40%**  
 - Integrated DApps with frontend systems  
@@ -179,7 +179,7 @@ An **arcade-style game built with Pygame** featuring:
 ---
 
 ### 🎓 Subject Area Tutor @ Arizona State University  
-📚 Teaching • 👥 Mentorship • 🧠 Problem Solving • 🎯 Impact  
+Teaching • Mentorship • Problem Solving • Impact  
 - Mentored **2000+ students** across STEM subjects  
 - Delivered 1:1 and group sessions improving outcomes  
 
@@ -187,9 +187,9 @@ An **arcade-style game built with Pygame** featuring:
 
 ## 🏆 Achievements
 
-- 🥇 SUN Award - Spring 2024  
-- 🎓 Multiple Dean’s List Honors (2021–2025)  
-- 📜 Certifications in Machine Learning, AWS & Prompt Engineering  
+- SUN Award - Spring 2024  
+- Multiple Dean’s List Honors (2021–2025)  
+- Certifications in Machine Learning, AWS & Prompt Engineering  
 
 ---
 
