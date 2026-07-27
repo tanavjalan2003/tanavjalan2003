@@ -269,8 +269,6 @@ A sustainability-focused research project investigating mechanical tree technolo
 
 ---
 
-**Tech Stack:** Sustainability Research • Engineering Analysis
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
