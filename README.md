@@ -1,210 +1,259 @@
-# 👋 Hi, I'm Tanav Jalan
-
-**Power BI Developer @ CohnReznick | Data & Full-Stack Enthusiast | Builder of Intelligent Systems**
-
-I’m a Computer Science graduate passionate about transforming **complex data into actionable insights** and building **scalable, user-centric applications**. My work sits at the intersection of **data analytics, web development, and intelligent systems**, with a strong focus on delivering real-world impact.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Tanav+Jalan+%F0%9F%91%8B;Software+Engineer+%7C+Data+%26+AI+Developer;Building+Scalable+Software+and+Intelligent+Systems"
+    alt="Typing introduction"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=default&card_width=400" height="250" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanavjalan2003&hide_border=true" height="170" />
+<p align="center">
+  <strong>Computer Science Graduate from Arizona State University</strong>
+</p>
+
+<p align="center">
+  Software Engineering • AI • Data Analytics • Cloud • Full-Stack Development • Business Intelligence
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanav-jalan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://tanavjalan2003.github.io/Portfolio-Tanav/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tjalan@asu.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20Views&color=2563EB&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## 🎯 Career Focus
+# 👨‍💻 About Me
 
-I’m actively focused on roles in:
-- **Data Engineering / Data Analytics**
-- **Business Intelligence (Power BI / Analytics)**
-- **Full-Stack Development**
-- **AI-driven Applications & Intelligent Systems**
+I am a **Computer Science graduate from Arizona State University** passionate about building software that combines **engineering, artificial intelligence, cloud technologies, business intelligence, and data visualization** to solve real-world problems.
 
-I enjoy solving problems where **data meets product and impact**.
+Currently, I work as a **Power BI Developer at CohnReznick**, where I design enterprise-scale analytics solutions, build advanced data models, and create interactive reporting experiences used across multiple business units.
+
+My experience also spans **Full-Stack Development, Cloud Engineering, AI Automation, Blockchain, Scientific Visualization, and Data Engineering**, allowing me to approach products from both an engineering and business perspective.
 
 ---
-## 💡 What I am doing currently
 
-- Build **interactive dashboards & data models** using Power BI, DAX, and SQL  
-- Develop **full-stack web applications** with scalable architectures  
-- Design **data-driven solutions** that simplify decision-making  
-- Create **interactive systems and simulations** with real-time logic  
-- Explore **mobile development** using Swift & SwiftUI  
+# ✨ What My Work Contains
+
+<p align="center">
+<img
+src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Software%20Engineering','Data%20Analytics','Artificial%20Intelligence','Cloud','Research%20%26%20Innovation'],datasets:[{data:[30,25,18,15,12]}]},options:{plugins:{title:{display:true,text:'Engineering%20Focus'},legend:{position:'bottom'}}}}"
+width="520"/>
+</p>
+
+> ## 💙 My Engineering Philosophy
+>
+> *"Great software isn't just powerful—it should be scalable, intuitive, and built to solve meaningful problems."*
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-95%25-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-92%25-0284C7?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-88%25-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Technologies-85%25-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-96%25-10B981?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<b>Engineering + Data + AI + Cloud + Innovation</b>
+</p>
+
+<p align="center">
+<i>Creating scalable software that transforms complex data into intelligent solutions.</i>
+</p>
+
+---
+
+# 🌍 Organizations I've Worked With
+
+<p align="center">
+
+<a href="https://www.cohnreznick.com">
+<img src="https://img.shields.io/badge/CohnReznick-003E7E?style=for-the-badge"/>
+</a>
+
+<a href="https://kpmg.com">
+<img src="https://img.shields.io/badge/KPMG-00338D?style=for-the-badge"/>
+</a>
+
+<a href="https://www.techmahindra.com">
+<img src="https://img.shields.io/badge/Tech%20Mahindra-E31837?style=for-the-badge"/>
+</a>
+
+<a href="https://nexusinfo.in">
+<img src="https://img.shields.io/badge/Nexus%20Info-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.asu.edu">
+<img src="https://img.shields.io/badge/Arizona%20State%20University-8C1D40?style=for-the-badge"/>
+</a>
+
+<a href="https://science.nasa.gov/mission/psyche/">
+<img src="https://img.shields.io/badge/NASA%20Psyche-0B3D91?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🚀 NASA Psyche Mission Explorer
+
+Interactive visualization of NASA's Psyche asteroid mission featuring orbital simulations, scientific visualization, and immersive educational experiences.
+
+**Tech:** JavaScript • Three.js • WebGL
+
+---
+
+### ⚡ Electric Vehicle Conversion
+
+Engineering project converting a gasoline-powered vehicle into an electric vehicle through battery integration, motor redesign, and sustainable engineering principles.
+
+---
+
+### 🌊 Microbots for Water Pollution
+
+Research focused on autonomous microbot systems for removing microplastics and pollutants from water while supporting UN Sustainable Development Goals.
+
+---
+
+### 🌳 Mechanical Trees Research
+
+Research project analyzing atmospheric carbon capture systems and scalable environmental engineering technologies.
+
+---
+
+### 📊 Enterprise Power BI Analytics
+
+Designed enterprise dashboards using Power BI, DAX, SQL, and Microsoft Fabric supporting analytics across 12 business units and 200+ users.
+
+---
+
+### 🎮 AI Racing Game
+
+Developed an AI-powered racing game with adaptive gameplay, reinforcement learning concepts, and real-time physics.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
-`Python` • `JavaScript` • `SQL` • `Swift` • `DAX`
+### Programming Languages
 
-**Frameworks & Technologies**  
-`Power BI` • `SwiftUI` • `Pygame` • `MySQL` • `REST APIs`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,swift"/>
+</p>
 
-**Core Skills**  
-- Data Visualization & Business Intelligence  
-- Data Modeling (Star Schema, ETL Pipelines)  
-- Full-Stack Development  
-- Prompt Engineering & AI Integration  
-- System Design & Optimization  
+### Frameworks & Development
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,firebase"/>
+</p>
 
-## 🚀 Featured Projects
+### Databases & Analytics
 
-### 🌐 Portfolio Website  
-🔗 [Live Project](https://tanavjalan2003.github.io/Portfolio-Tanav/)  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
 
-A fully responsive **personal portfolio website** showcasing:
-- Education, Certifications, Experience  
-- Projects & Recommendations  
-- Interactive UI elements and slideshows  
+**Also:** Power BI • DAX • Power Query • SQL • Microsoft Fabric • ETL Pipelines
 
-> Built using HTML, CSS, and JavaScript with deployment via GitHub Pages.
+### Cloud & Tools
 
----
-### 🚀 Psyche 1825 – Orbital of a Metal World  
-🔗 [Live Project](https://tanavjalan2003.github.io/Psyche-Mission/)
-
-An interactive 3D simulation of asteroid **16 Psyche**, designed to visualize its orbital motion and surface environment through an immersive web experience.
-
-- Dual simulation modes: Orbital View & Surface View  
-- Real-time time progression with adjustable speed controls  
-- Scientific visualization of orbital paths and rotation  
-- Interactive camera controls and immersive UI  
-- Educational tool bridging NASA mission data with visualization  
-
-> Built to make planetary science and space exploration more engaging and accessible through interactive simulation.
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vscode"/>
+</p>
 
 ---
 
-### 📈 Financial Planning - Mutual Funds  
-🔗 [Live Project](https://tanavjalan2003.github.io/Financial-Planning-MF/)  
+# 🗺️ My Journey
 
-A personal investment analytics platform focused on the **Indian mutual funds market**, enabling users to track:
-- Profit & Loss 
-- Investment Value  
-- Portfolio Insights  
+```mermaid
+flowchart LR
 
-> Built to simplify financial decision-making through intuitive data visualization.
+A["Arizona State University"] --> B["Software Engineering Projects"]
 
----
+B --> C["KPMG<br/>Data Automation"]
 
-### 🎮 Video Game Sales Dashboard
-🔗 [Live Project](https://tanavjalan2003.github.io/Video-Game-Sales-Dashboard/)  
+C --> D["Tech Mahindra<br/>Blockchain"]
 
-An **interactive D3.js data visualization dashboard** that explores global video game sales across platforms, genres, and years.
-- Dynamic filtering by platform, genre, and year  
-- Interactive bar, scatter, and line charts   
-- Tooltips, sorting, and tab-based navigation for exploration  
-- Insights into regional and temporal sales trends   
+D --> E["Nexus Info<br/>Web Development"]
 
-> Designed to make video game market data exploration intuitive, interactive, and insight-driven.
+E --> F["CohnReznick<br/>Data Analyst"]
 
----
+F --> G["Full Stack Developer"]
 
-### 🏫 School Management System
-A **Python + MySQL-based system** to automate:
-- Student & Teacher Records  
-- Attendance Tracking  
-- Fee & Salary Management  
+G --> H["Power BI Developer"]
 
-> Designed with modular architecture and persistent database integration.
+B --> I["NASA Psyche Simulation"]
+
+B --> J["Electric Vehicle Project"]
+
+B --> K["AI & Sustainability Research"]
+```
 
 ---
 
-### 🏎️ Racing Game Simulator
-An **arcade-style game built with Pygame** featuring:
-- AI-driven traffic  
-- Real-time camera tracking  
-- Dynamic scoring & time mechanics 
-- Custom maps and gameplay  
+# 🏆 Achievements
 
-> Focused on game logic, physics, and interactive systems.
+🏅 Cum Laude Graduate
 
----
+🥈 2nd Place — Zoom AI Spark Challenge ($2,000)
 
-## 📊 Experience Snapshot
+🎓 NaMU Scholarship Recipient
 
-### 💼 CohnReznick LLP
+🏆 SUN Award Recipient
 
-#### 🧠 Power BI Developer (Jun 2025 – Present)  
-Data Modeling • DAX • Power Query • Data Integration  
-- Designed scalable data models (Star Schema) enabling real-time analytics across **12 business units**  
-- Processed **2M+ rows per refresh** using APIs, SQL, and flat files  
-- Built **15+ dashboards & reports** supporting **200+ users**, improving efficiency by **30%**
+👑 Mr. Phoenix 2024
 
-#### 🌐 Full-Stack Developer Intern (Jan 2025 – May 2025)  
-.NET • REST APIs • Azure • Backend Systems  
-- Developed responsive interfaces, reducing latency by **25%**  
-- Integrated APIs handling **1.5M+ records/day**, reducing errors by **20%**  
-- Deployed scalable cloud solutions supporting **10K+ concurrent users**
-
-#### 📊 Data Analyst Intern (Sep 2024 – Dec 2024)  
-Power BI • SQL • ETL • Data Insights  
-- Built dashboards reducing reporting time by **30%**  
-- Performed ETL workflows ensuring accurate data processing  
-- Integrated Microsoft Fabric for streamlined pipelines  
+📚 Multiple Dean's List Honors
 
 ---
 
-### 💻 Web Developer Intern @ Nexus Info  
-Web Dev • CI/CD • Performance • AI Tools  
-- Improved deployment speed by **40%** using Jenkins pipelines  
-- Reduced load time from **4s → 1.5s**  
-- Led AI-integrated development projects  
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanavjalan2003&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanavjalan2003&layout=compact&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tanavjalan2003&theme=transparent"/>
+
+</p>
 
 ---
 
-### 🤖 Data Automation Intern @ KPMG  
-Big Data • Python • Pandas • Automation  
-- Processed **1TB+ data** with **99% consistency**  
-- Reduced manual effort by **80%**  
-- Automated **95% of repetitive tasks**  
+# ⚡ Fun Fact
 
----
-
-### ⛓️ Blockchain Developer Intern @ Tech Mahindra  
-Solidity • Blockchain • Smart Contracts • Security  
-- Developed **20+ smart contracts** on Ethereum  
-- Improved platform security by **40%**  
-- Integrated DApps with frontend systems  
-
----
-
-### 🎓 Subject Area Tutor @ Arizona State University  
-Teaching • Mentorship • Problem Solving • Impact  
-- Mentored **2000+ students** across STEM subjects  
-- Delivered 1:1 and group sessions improving outcomes  
-
----
-
-## 🏆 Achievements
-
-- SUN Award - Spring 2024  
-- Multiple Dean’s List Honors (2021–2025)  
-- Certifications in Machine Learning, AWS & Prompt Engineering  
-
----
-
-## 🤝 Let’s Connect
-
-📧 **Email:** tanavjalan2026@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/tanav-jalan  
-🌐 **Portfolio:** https://tanavjalan2003.github.io/TanavJalan.github.io/
-
----
-
-## ⚡ Fun Fact
-
-I love building systems that **turn complexity into clarity** — whether it's a dashboard, a game, or a full-scale application.
-
----
-
-⭐ *If you like my work, feel free to explore my repositories and connect!*
+I enjoy building everything from **enterprise analytics platforms and cloud applications to scientific simulations and AI-powered software**, combining engineering with creativity to solve meaningful real-world challenges.
