@@ -54,9 +54,7 @@ src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Software%20En
 width="520"/>
 </p>
 
-> ## 💙 My Engineering Philosophy
->
-> *"Great software isn't just powerful—it should be scalable, intuitive, and built to solve meaningful problems."*
+> *"Good visualizations don't just present data—they reveal insights that inspire better decisions."*
 
 <p align="center">
 
